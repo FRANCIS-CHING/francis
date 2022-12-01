@@ -11,7 +11,33 @@ public class dd {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         dd dd = (dd) o;
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+        System.out.println(1223);
+
+        System.out.println(1223);
         return s == dd.s;
+
+
     }
 
     @Override
